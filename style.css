@@ -17,3 +17,32 @@ body{
 background: #3bbced;
     padding: 30px;
 }
+
+header{
+    grid-column: 1 / 13;
+}
+
+main{
+    grid-column: 1 / 4;
+    grid-row: 2 / 5;
+}
+
+section{
+    grid-column: 4 / 8;
+    grid-row: 2 / 4;
+}
+
+aside{
+    grid-column: 8 / 13;
+    grid-row: 2 / 7;
+}
+
+nav{
+    grid-column: 4 / 8;
+    grid-row: 4 / 5;
+}
+
+footer{
+    grid-column: 1 / 8;
+    grid-row: 5 / 7
+}
