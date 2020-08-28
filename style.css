@@ -131,20 +131,18 @@ input:checked + #content #grid{
 
 #content .one{
     font-size: 40px;
-    font-weight: bold;
 }
 
 #content section{
     font-size: 25px;
-    font-weight: bold;
 }
 
 #content aside{
     font-size: 30px;
-    font-weight: bold;
 }
 
 #content .one, section, aside{
+    font-weight: bold;
     display: flex;
     justify-content: center;
     align-items: center;
