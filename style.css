@@ -135,12 +135,12 @@ input:checked + #content #grid{
 }
 
 #content section{
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
 }
 
 #content aside{
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
 }
 
