@@ -88,42 +88,42 @@ input:checked + #content #grid{
 
 
 #content header{
-    background: url(img/zachód_góry.jpg);
+    background: url('img/zachód_góry.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 #content main{
-    background: url(img/droga_do_drzew.jpg);
+    background: url('img/droga_do_drzew.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 #content .two{
-    background: url(img/kwieciste_drzewo.jpg);
+    background: url('img/kwieciste_drzewo.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 #content .three{
-    background:url(img/rzeka.jpg);
+    background:url('img/rzeka.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 #content nav{
-    background: url(img/wiejskie_klimaty.jpg);
+    background: url('img/wiejskie_klimaty.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 #content footer{
-    background: url(img/wies.jpg);
+    background: url('img/wies.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
